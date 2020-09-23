@@ -18,6 +18,9 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.util.jar.*;
 
+/**
+ * 通过Jar包SHA1或MD5生成Pom文件
+ */
 public class JarToPom {
 
     /**
