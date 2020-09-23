@@ -1,0 +1,6 @@
+projectKey=my_project
+serverUrl=http://192.168.22.203:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://192.168.22.203:9000/dashboard/index/my_project
+ceTaskId=AXS0t3HsA65Jst5er6q7
+ceTaskUrl=http://192.168.22.203:9000/api/ce/task?id=AXS0t3HsA65Jst5er6q7
